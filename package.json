@@ -1,0 +1,22 @@
+{
+  "name": "Furniture_API",
+  "version": "1.0.0",
+  "description": "This api will provide the information about the furniture to the furniture client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "SPA",
+    "JavaScipt"
+  ],
+  "author": "Shashank Gupta",
+  "license": "@Shashank",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "heroku": "^7.30.1",
+    "cors": "^2.8.5"
+  }
+}

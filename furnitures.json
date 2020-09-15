@@ -1,0 +1,257 @@
+{
+    "0": {
+        "id": 0,
+        "name": "All-Seeing Owl",
+        "collection": "Modern Collection",
+        "category": "ExclusiveLane",
+        "color": [
+            "yellow",
+            "black"
+        ],
+        "price": "2,600",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/-/t/70x77/-the-all-seeing-owl--rustic-aluminium-wall-decor---wall-hook--5-6-inch--by-exclusivelane--the-all-se-0rcfyt.jpg","https://ii2.pepperfry.com/media/catalog/product/-/t/70x77/-the-all-seeing-owl--rustic-aluminium-wall-decor---wall-hook--5-6-inch--by-exclusivelane--the-all-se-mbamzi.jpg", "https://ii1.pepperfry.com/media/catalog/product/-/t/70x77/-the-all-seeing-owl--rustic-aluminium-wall-decor---wall-hook--5-6-inch--by-exclusivelane--the-all-se-q658sc.jpg"],
+        "rating": 4,
+        "search": "living room",
+        "description": "Perfect to organize coat, clothes, towel, key or an umbrella. - Acts as wall decor to enhance the beauty of your wall. - Ideal to be used in the kids' room. - Comes with black powder & lacquer coating. - Comes in rustic Patina Finish. - Handcrafted in the shape of an owl."
+    },
+
+
+    "1": {
+        "id": 1,
+        "name": "Hideki",
+        "collection": "WoodsWorth",
+        "category": "Bed",
+        "color": [
+            "brown"
+  
+        ],
+        "price": "12,200",
+        "src": ["https://ii3.pepperfry.com/media/catalog/product/h/i/236x260/hideki-blackline-queen-size-bed-with-storage-in-walnut-finish-by-mintwud-hideki-blackline-queen-size-i4on4y.jpg", "https://ii2.pepperfry.com/media/catalog/product/h/i/70x77/hideki-blackline-queen-size-bed-with-storage-in-walnut-finish-by-mintwud-hideki-blackline-queen-size-7eie6y.jpg","https://ii3.pepperfry.com/media/catalog/product/h/i/70x77/hideki-blackline-queen-size-bed-with-storage-in-walnut-finish-by-mintwud-hideki-blackline-queen-size-zdaxdz.jpg"],
+        "rating": 3,
+        "search": "Bedroom",
+        "description": "Mintwud is a classic amalgamation of form and function. Crafted for compact homes, the range is clean and convenient and has an understated design aesthetic that adapts to any space."
+    },
+    "2": {
+        "id": 2,
+        "name": "Kiki",
+        "collection": "Mintwud",
+        "category": "Shoe Rack ",
+        "color": [
+            "brown",
+            "black"
+        ],
+        "price": "4,500",
+        "src": ["https://ii2.pepperfry.com/media/catalog/product/k/i/236x260/kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-mwmplu.jpg","https://ii3.pepperfry.com/media/catalog/product/k/i/70x77/kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-md31bp.jpg", "https://ii1.pepperfry.com/media/catalog/product/k/i/70x77/kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-kiki-2-door-shoe-rack-in-wenge-finish-by-mintwud-jgajdn.jpg"],
+        "rating": 5,
+        "search": "shoe rack",
+        "description": "Modern is a distinct, defined style which originated in the early 1900s. It uses a combination of vinyl, steel, plastic, glass or wood having monochromatic colors and sleek silhouettes. Modern furniture lives at the intersection of clean lines and relaxed comfort accentuating form and function."
+    },
+
+    "3": {
+        "id": 3,
+        "name": "Antonella",
+        "collection": "CasaCraft",
+        "category": "tables",
+        "color": [
+            "brown",
+            "black",
+	        "biege"
+        ],
+        "price": "5,600",
+        "src": ["https://ii3.pepperfry.com/media/catalog/product/a/n/236x260/antonella-coffee-table-in-dark-walnut-finish-by-casacraft-antonella-coffee-table-in-dark-walnut-fini-puxzcu.jpg", "https://ii2.pepperfry.com/media/catalog/product/a/n/70x77/antonella-coffee-table-in-dark-walnut-finish-by-casacraft-antonella-coffee-table-in-dark-walnut-fini-vqxdcs.jpg", "https://ii3.pepperfry.com/media/catalog/product/a/n/70x77/antonella-coffee-table-in-dark-walnut-finish-by-casacraft-antonella-coffee-table-in-dark-walnut-fini-jk0axi.jpg"],
+        "rating": 4,
+        "search": "coffee tables",
+        "description": "Mid Century Modern is a throwback to the design style of mid 50s and 60s. It is a minimalist design style which is fuss free with key design influences like splayed legs, geometric graphic patterns, natural organic shapes, mixed elements and contrasting textures. No ornate furnishings and excessive decoration for this distinct vintage style."
+    },
+
+    "4": {
+      "id": 4,
+        "name": "Floaters",
+        "collection": "Home Sparkle",
+        "category": "Shelves",
+        "color": [
+            "brown",
+            "black"
+        ],
+        "price": "3,900",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/b/r/70x77/brown-mango-wood-ladder-shelf---set-of-2-by-home-sparkle-brown-mango-wood-ladder-shelf---set-of-2-by-dvffeo.jpg", "https://ii2.pepperfry.com/media/catalog/product/b/r/70x77/brown-mango-wood-ladder-shelf---set-of-2-by-home-sparkle-brown-mango-wood-ladder-shelf---set-of-2-by-jwjyzi.jpg", "https://ii3.pepperfry.com/media/catalog/product/b/r/70x77/brown-mango-wood-ladder-shelf---set-of-2-by-home-sparkle-brown-mango-wood-ladder-shelf---set-of-2-by-x5sshq.jpg"],
+        "rating": 5,
+        "search": "shelves",
+        "description": "Decorate your walls with these well designed and ergonomic wall shelves. Available in a variety of styles and designs, you can use them to organise your essentials or display decorative items. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds."
+    },
+
+    "5": {
+        "id": 5,
+        "name": "Yuko",
+        "collection": "YUKO",
+        "category": "TV unit",
+        "color": [
+            "walnut",
+            "brown"
+        ],
+        "price": "9,988",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/y/u/70x77/yuko-tv-unit-with-two-drawers-in-columbia-walnut-finish-by-mintwud-yuko-tv-unit-with-two-drawers-in--pgwssv.jpg","https://ii2.pepperfry.com/media/catalog/product/y/u/70x77/yuko-tv-unit-with-two-drawers-in-columbia-walnut-finish-by-mintwud-yuko-tv-unit-with-two-drawers-in--hcgmat.jpg","https://ii2.pepperfry.com/media/catalog/product/y/u/70x77/yuko-tv-unit-with-two-drawers-in-columbia-walnut-finish-by-mintwud-yuko-tv-unit-with-two-drawers-in--excg5s.jpg"],
+        "rating": 5,
+        "search": "Carpenter Assembly",
+        "description": "The TV Console features open and closed storage space, including an open-access shelf below for electronic components and either drawers or closed shutter space so you'll have no trouble organizing your home."
+    },
+
+    "6": {
+        "id": 6,
+        "name": "Koharu",
+        "collection": "Megumi",
+        "category": "Living Room",
+        "color": [
+            "wood",
+            "walnut"
+        ],
+        "price": "1,990",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/k/o/70x77/koharu-book-shelf-with-one-drawer-in-columbia-walnut-finish-by-mintwud-koharu-book-shelf-with-one-dr-modews.jpg", "https://ii2.pepperfry.com/media/catalog/product/k/o/70x77/koharu-book-shelf-with-one-drawer-in-columbia-walnut-finish-by-mintwud-koharu-book-shelf-with-one-dr-lxwyzo.jpg", "https://ii1.pepperfry.com/media/catalog/product/k/o/70x77/koharu-book-shelf-with-one-drawer-in-columbia-walnut-finish-by-mintwud-koharu-book-shelf-with-one-dr-pjsyej.jpg"],
+        "rating": 3,
+        "search": "Book Shelf",
+        "description": "Bookshelf is a free-standing furniture unit with multiple horizontal stack of racks or shelves which are used for varied purposes to store your books or display curios. Some have a back panel or could be open from both sides."
+    },
+
+    "7": {
+        "id": 7,
+        "name": "Merrai",
+        "collection": " Zahab",
+        "category": "mirror",
+        "color": [
+            "brown",
+            "black"
+        ],
+        "price": "5,900",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/z/a/70x77/zahab-brown-mdf-decorative-framed-standing-mirror-zahab-brown-mdf-decorative-framed-standing-mirror-j4qqjw.jpg","https://ii2.pepperfry.com/media/catalog/product/z/a/70x77/zahab-brown-mdf-decorative-framed-standing-mirror-zahab-brown-mdf-decorative-framed-standing-mirror-pyq8lr.jpg", "https://ii2.pepperfry.com/media/catalog/product/z/a/70x77/zahab-brown-mdf-decorative-framed-standing-mirror-zahab-brown-mdf-decorative-framed-standing-mirror-pxyzqu.jpg"],
+        "rating": 5,
+        "search": "Mirror",
+        "description": "Our range of minimalist mirrors will give you something you would love. To craft them to perfection a smart selection of materials is made. These minimalist mirrors are sure to catch your fancy.A One stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds."
+    },
+
+    "8": {
+        "id": 8,
+        "name": "Pendulum",
+        "collection": "Safal Quartz",
+        "category": "Clock",
+        "color": [
+            "brown"
+        ],
+        "price": "6,600",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/b/r/70x77/brown-mdf-artistic-pendulum-wall-clock-by-safal-quartz-brown-mdf-artistic-pendulum-wall-clock-by-saf-6ktyir.jpg","https://ii2.pepperfry.com/media/catalog/product/b/r/70x77/brown-mdf-artistic-pendulum-wall-clock-by-safal-quartz-brown-mdf-artistic-pendulum-wall-clock-by-saf-2uyoa0.jpg", "https://ii1.pepperfry.com/media/catalog/product/b/r/70x77/brown-mdf-artistic-pendulum-wall-clock-by-safal-quartz-brown-mdf-artistic-pendulum-wall-clock-by-saf-6zlboh.jpg"],
+        "rating": 4,
+        "search": "clock",
+        "description": "A beautifully crafted wooden wall clock that gives a royal touch to your living room. Enhance the beauty of your interiors with this elegant and attractive wall clock from the house of Safal. These clocks are ideal for decorating your living room and house. Aesthetically Designed, Exquisite Melamine Finish, Innovative Craftsmanship, Lifetime Warrantied Product. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds."
+    },
+
+    "9": {
+        "id": 9,
+        "name": "Iron Bike",
+        "collection": "Vedas",
+        "category": "wall decor",
+        "color": [
+            "brown",
+            "black"
+        ],
+        "price": "3,400",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/b/r/70x77/brown-iron-bike-hook-wall-decor-by-vedas-brown-iron-bike-hook-wall-decor-by-vedas-hf6tml.jpg","https://ii3.pepperfry.com/media/catalog/product/b/r/70x77/browns-iron-bike-hook-wall-decor-by-vedas-browns-iron-bike-hook-wall-decor-by-vedas-1mx63c.jpg","https://ii2.pepperfry.com/media/catalog/product/b/r/70x77/browns-iron-bike-hook-wall-decor-by-vedas-browns-iron-bike-hook-wall-decor-by-vedas-dhmouo.jpg"],
+        "rating": 5,
+        "search": "Decor",
+        "description": "Add oodles of class to your room's wall by picking from our creative range of wall hangings. Beautify your walls with the artistic make, intricate detailing, variety of colours and designs these hangings provide.A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds."
+    },
+
+    "10": {
+        "id": 10,
+        "name": "Catalina",
+        "collection": "CasaCraft",
+        "category": "Table Lamp",
+        "color": [
+            "yellow",
+            "metal"
+        ],
+        "price": "5,500",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/c/a/70x77/catalina-white-shade-table-lamp-with-metal-base-by-casacraft-catalina-white-shade-table-lamp-with-me-b51ev5.jpg", "https://ii3.pepperfry.com/media/catalog/product/c/a/70x77/catalina-white-shade-table-lamp-with-metal-base-by-casacraft-catalina-white-shade-table-lamp-with-me-u97tde.jpg", "https://ii2.pepperfry.com/media/catalog/product/c/a/70x77/catalina-white-shade-table-lamp-with-metal-base-by-casacraft-catalina-white-shade-table-lamp-with-me-fndm1y.jpg"],
+        "rating": 2,
+        "search": "Lamps",
+        "description": "Bringing you one of our finest handcrafted pieces, The Table Lamp is the perfect blend of artisticflair and modern appeal.The product design are made up of premium materials and with continuous innovation on designs, they keep track of the living needs of consumers. The motive is to set the right ambience at homes for various moods and thereby spreading the same passion via their products. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds."
+    },
+
+    "11": {
+        "id": 11,
+        "name": "Classic",
+        "collection": "ARRA",
+        "category": "Sofa",
+        "color": [
+            "brown",
+            "black"
+        ],
+        "price": "8,400",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/c/l/70x77/classic-1-seater-sofa-in-brown-colour-by-arra-classic-1-seater-sofa-in-brown-colour-by-arra-zwwvze.jpg","https://ii2.pepperfry.com/media/catalog/product/c/l/70x77/classic-1-seater-sofa-in-brown-colour-by-arra-classic-1-seater-sofa-in-brown-colour-by-arra-517ee5.jpg","https://ii1.pepperfry.com/media/catalog/product/c/l/70x77/classic-1-seater-sofa-in-brown-colour-by-arra-classic-1-seater-sofa-in-brown-colour-by-arra-cdjvtn.jpg"],
+        "rating": 5,
+        "search": " Living Room",
+        "description": "The sofas attributed to this style have a streamlined form with low, often square legs. You may recognize them for their retro appearance, use of organic shapes and powerful geometry. One thing is certain: if properly integrated in a modern interior, their look will surprise and inspire."
+    },
+
+    "12": {
+        "id": 12,
+        "name": "Kosmo",
+        "collection": "Spacewood",
+        "category": "Living Room",
+        "color": [
+            "wenge",
+            "grey"
+        ],
+        "price": "3,400",
+        "src": ["https://ii1.pepperfry.com/media/catalog/product/k/o/236x260/kosmo-end-table-in-natural-wenge-finish-by-spacewood-kosmo-end-table-in-natural-wenge-finish-by-spac-4b4wtd.jpg","https://ii2.pepperfry.com/media/catalog/product/k/o/70x77/kosmo-console-table-in-natural-wenge-finish-by-spacewood-kosmo-console-table-in-natural-wenge-finish-f5dvkp.jpg","https://ii1.pepperfry.com/media/catalog/product/k/o/70x77/kosmo-console-table-in-natural-wenge-finish-by-spacewood-kosmo-console-table-in-natural-wenge-finish-1jezmn.jpg"],
+        "rating": 3,
+        "search": "table",
+        "description": "Kosmo furniture offers a wide range of furniture that is strong, durable and tough. It comes from the house of Spacewood, which is Indias largest furniture manufacturer. These products are made from melamine and membrane finish technology with an Iso: 9001, 18001, 14001 approved quality standards. All our products go through stringent quality checks to provide you the best of best at the most durable prices."
+    },
+ 
+    "13": {
+        "id": 13,
+        "name": "Antique",
+        "collection": "Stello",
+        "category": "Chandelier",
+        "color": [
+            "brass",
+            "yellow"
+        ],
+        "price": "30,000",
+        "src": ["https://ii3.pepperfry.com/media/catalog/product/a/n/236x260/antique-brass-metal-and-fabric-chandelier-by-stello-antique-brass-metal-and-fabric-chandelier-by-ste-3s6sgs.jpg","https://ii2.pepperfry.com/media/catalog/product/b/r/70x77/brass-crystal-chandelier-by-stello-brass-crystal-chandelier-by-stello-aylq8e.jpg","https://ii2.pepperfry.com/media/catalog/product/b/r/70x77/brass-crystal-chandelier-by-stello-brass-crystal-chandelier-by-stello-0lvtvu.jpg"],
+        "rating": 5,
+        "search": "Chandelier",
+        "description": "Exude a sense of class and elegance with a stylish and well-designed chandelier from our extensive showcase. Spectacular and awe-inspiring, we have the right choice for you. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds"
+    },
+
+"14": {
+        "id": 14,
+        "name": "Fabric",
+        "collection": "Foziq",
+        "category": "lightings",
+        "color": [
+            "biege"
+        ],
+        "price": "3,400",
+        "src": ["https://ii3.pepperfry.com/media/catalog/product/b/e/236x260/beige-cotton-table-lamp-by-foziq-beige-cotton-table-lamp-by-foziq-rxk1zk.jpg", "https://ii2.pepperfry.com/media/catalog/product/b/e/70x77/beige-cotton-table-lamp-by-foziq-beige-cotton-table-lamp-by-foziq-7rxokc.jpg", "https://ii1.pepperfry.com/media/catalog/product/b/e/70x77/beige-cotton-table-lamp-by-foziq-beige-cotton-table-lamp-by-foziq-xm2lyr.jpg"],
+        "rating": 5,
+        "search": "lamps",
+        "description": "Bring home one of these stunning contemporary lamps available in different shapes, sizes and colours on Pepperfry and illuminate your home in style. With its simple yet elegant design, these lamps are a brilliant lighting option to give a sophisticated touch to your table space. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds"
+    },
+
+    "15": {
+        "id": 15,
+        "name": "Alba",
+        "collection": "Woodsworth",
+        "category": "sofa",
+        "color": [
+            "red",
+            "grey"
+        ],
+        "price": "25,000",
+        "src": ["https://ii2.pepperfry.com/media/catalog/product/a/l/568x284/alba-three-seater-sofa-in-garnet-red-colour-by-woodsworth-alba-three-seater-sofa-in-garnet-red-colou-uajq1f.jpg","https://ii2.pepperfry.com/media/catalog/product/a/l/154x77/alba-three-seater-sofa-in-garnet-red-colour-by-woodsworth-alba-three-seater-sofa-in-garnet-red-colou-wcph4o.jpg", "https://ii3.pepperfry.com/media/catalog/product/a/l/154x77/alba-three-seater-sofa-in-garnet-red-colour-by-woodsworth-alba-three-seater-sofa-in-garnet-red-colou-am6njm.jpg"],
+        "rating": 5,
+        "search": "sitting",
+        "description": "Modern Style Sofas usually come in fixed back with cushions attached to the frame. They mostly come with minimal details & compact proportions. These sofas can be with or without arms."
+    }
+}
+
